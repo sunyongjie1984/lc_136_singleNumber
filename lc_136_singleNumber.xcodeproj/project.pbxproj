@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		13E8F51B28311EFE00873BA7 /* lc_136_singleNumber */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = lc_136_singleNumber; sourceTree = BUILT_PRODUCTS_DIR; };
 		13E8F51E28311EFE00873BA7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		13E8F52528311F1400873BA7 /* singleNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = singleNumber.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				13E8F51E28311EFE00873BA7 /* main.cpp */,
+				13E8F52528311F1400873BA7 /* singleNumber.h */,
 			);
 			path = lc_136_singleNumber;
 			sourceTree = "<group>";
